@@ -1,9 +1,6 @@
 # AccessManagementFrontend
 Reference project for Internal login and Social login using Meta and Google, with recaptcha protection.
 
-# test-sociallogin-spa
-Reference project for Internal login and Social login using Meta and Google, with recaptcha protection.
-
 ## Project setup
 ```
 npm install
@@ -28,3 +25,6 @@ Remember to get your own reCaptcha key, Google oauth key and Meta oauth key. For
 
 * See [Meta developers](https://developers.facebook.com/apps) to create and get meta oauth keys.
 
+## TODO
+* Refactor
+* UnitTest
